@@ -1,5 +1,5 @@
 {
-	"containerPort": 8080,
+	"containerPort": 8081,
 	"dockerfilePath": "Dockerfile",
 	"buildDir": "",
 	"minNum": 0,

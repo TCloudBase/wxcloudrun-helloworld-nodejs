@@ -7,7 +7,7 @@ app.get('/', (req, res) => {
     res.send(`Hello, Welcome to CloudBase!`);
 });
 
-const port = process.env.PORT || 80;
+const port = process.env.PORT || 8081;
 app.listen(port, () => {
     console.log('Hello world listening on port', port);
 });
